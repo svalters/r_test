@@ -1,5 +1,9 @@
 # Steps
 
+## Requirements
+
+NodeJS >= v14.17.0
+
 ## Installing dependencies
 
 ```sh
